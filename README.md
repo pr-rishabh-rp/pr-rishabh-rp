@@ -10,8 +10,7 @@
 
 ✭ :) I hope you have a good day. <br>
 
-<div style="display:flex;justify-content:center">★</div>
-<div style="text-align: center;" markdown="1">★</div>
+<img src="https://i.imgur.com/XsWK5zF.gif" alt="★" width="50%">
 <!---
 pr-rishabh-rp/pr-rishabh-rp is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
