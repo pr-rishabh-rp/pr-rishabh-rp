@@ -1,12 +1,12 @@
 ✭ 'Sup, its <i>@pr-rishabh-rp</i>. <br>
 
-✭ I’m interested in computer science, machine learning and <q>making this world a better place for the next generation, or at least preserve it as it is.</q> <br>
+✭ I’m interested in deep learning, quantum computing and <q>making this world a better place for the next generation, or at least preserve it as it is.</q> <br>
 
-✭ I’m currently learning to code; C++ is my primary language. I can do basic coding but I have little confidence in it, but my passion shines on like a crazy diamond. <br>
+✭ My coding shines on like a crazy diamond! (I hope so atleast lol) <br>
 
-✭ I'm looking for collaboration in projects with people I respect, genres I admire and fields I find worthwhile. If I am in, you'll get my best else nothing. <br>
+✭ I'm looking for collaboration in projects with people I respect, genres I admire and fields I love. If I am in, you'll get my best. <br>
 
-✭ How to reach me? I have a Linkedin account that I don't use: https://www.linkedin.com/in/rishabhrp. Email me @ official-for-parmar@hotmail.com. <br>
+✭ How to reach me? Email me @ official-for-parmar@hotmail.com. I have a Linkedin account that I don't use: https://www.linkedin.com/in/rishabhrp. <br>
 
 ✭ :) I hope you have a good day. <br>
 
